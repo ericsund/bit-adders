@@ -1,6 +1,3 @@
-// CMPT 295 Assignment 2 Four-bit Full Adder
-// DO NOT include a main function in your final submission.
-
 #include <stdio.h>
 
 typedef char bit;
