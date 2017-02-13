@@ -1,5 +1,7 @@
 /*
 
+bitAdders.h
+   
 (c) Copyright 2017 Eric Sund
 
 This file is an implementation of bit adder functions.  Use these in bitAdders.c
